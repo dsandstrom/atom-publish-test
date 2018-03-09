@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "publish-test:toggle"
   },
-  "repository": "https://github.com/atom/publish-test",
+  "repository": "https://github.com/dsandstrom/atom-publish-test",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
