@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle publish-test",
+        "command": "publish-test:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "publish-test",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "publish-test:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
